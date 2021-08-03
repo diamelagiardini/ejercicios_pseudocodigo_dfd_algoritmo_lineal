@@ -36,6 +36,7 @@
 **11.Nota promedio**
 - Realizá el diagrama de flujo y pseudocódigo que representen el algoritmo para determinar el promedio que obtendrá un alumno considerando que realiza tres exámenes, de los cuales el primero y el segundo tienen una ponderación de 25%, mientras que el tercero de 50%.
 
+![](img_ejercicios/11.png)
 **12.Monto en cuotas**
 - Dado un número real que representa el importe de una compra, informar las posibles formas de pago según la siguiente tabla. Espicificá los datos de entrada, de salida, estrategia.
 
